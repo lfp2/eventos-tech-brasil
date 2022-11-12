@@ -106,3 +106,4 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * TBA: [RoadSec](https://www.roadsec.com.br/) - *Flipside*
 * TBA: [RubySummit](https://ruby.com.br/)
 * TBA: [VTEX Day](https://vtexday.vtex.com/)
+* TBA: [Hack GRRRL 2023](https://hackgrrrl.com/)
